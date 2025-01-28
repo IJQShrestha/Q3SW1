@@ -1,0 +1,18 @@
+body {
+	background-color: cblue;
+}
+
+.container {
+	text-align: center;
+	background-color: lavender;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
